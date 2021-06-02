@@ -4,4 +4,4 @@
 
 <img src = "https://i.ibb.co/SNwGW63/Screenshot-289.png">
 
-<img src = "**https://i.ibb.co/XxZkNfX/Screenshot-290.png">
+<img src = "https://i.ibb.co/XxZkNfX/Screenshot-290.png">
